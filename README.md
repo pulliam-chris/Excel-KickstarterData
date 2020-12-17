@@ -15,3 +15,9 @@ The dataset only runs up through early 2017.  It's currently almost 2021 so the 
 
 (1) A stacked bar graph of campaign statuses on whether "staff pick" could contribute to a campaign's success.
 (2) Whether the campaign duration (from creation to deadline dates) reflected a particular status or played a part in campaigns that met and exceeded their intial goal amounts. 
+
+Bonus
+
+1. Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
+
+There's more variability in the successful campaigns.  This makes sense because successful campaigns typically have more backers which would reflect more variance from the mean when examined in total.
