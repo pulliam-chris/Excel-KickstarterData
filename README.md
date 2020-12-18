@@ -8,14 +8,14 @@
 
 2.	What are some limitations of this dataset?
 
-The dataset only runs up through early 2017.  It's currently almost 2021 so the backer dynamics on the platform could have changed. The types of campaigns are broken down into a single category and subcategory which only makes generic inferences about those values possible.  Different  currencies are listed for campaigns in different countries so inferences based on the goal amounts would need to be confined to a specific country/currency or converted on a relative basis to a standard currency.
+The dataset only runs up through early 2017.  It's currently almost 2021 so the backer dynamics on the platform could have changed. The types of campaigns are broken down into a   single category and subcategory which only makes generic inferences about those values possible.  Different  currencies are listed for campaigns in different countries so      inferences based on the goal amounts would need to be confined to a specific country/currency or converted on a relative basis to a standard currency.
 
 3.	What are some other possible tables and/or graphs that we could create?
 
 * A stacked bar graph of campaign statuses on whether "staff pick" could contribute to a campaign's success.
 * Whether the campaign duration (from creation to deadline dates) reflected a particular status or played a part in campaigns that met and exceeded their intial goal amounts. 
 
-Bonus
+# Bonus
 
 1. Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 
