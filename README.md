@@ -13,8 +13,8 @@ The dataset only runs up through early 2017.  It's currently almost 2021 so the 
 
 3.	What are some other possible tables and/or graphs that we could create?
 
-(1) A stacked bar graph of campaign statuses on whether "staff pick" could contribute to a campaign's success.
-(2) Whether the campaign duration (from creation to deadline dates) reflected a particular status or played a part in campaigns that met and exceeded their intial goal amounts. 
+* A stacked bar graph of campaign statuses on whether "staff pick" could contribute to a campaign's success.
+* Whether the campaign duration (from creation to deadline dates) reflected a particular status or played a part in campaigns that met and exceeded their intial goal amounts. 
 
 Bonus
 
