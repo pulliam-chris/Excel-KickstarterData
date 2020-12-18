@@ -1,4 +1,4 @@
-# Kickstarter Homework Analysis 
+# Kickstarter Analysis 
 
 1.	Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 
