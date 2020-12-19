@@ -4,6 +4,9 @@
 
 * Kickstarters under the category of "Theater" account for the highest number of campaigns in the data set.
 * "Technology" Kickstarters have the largest number of "Canceled" campaigns across the data set.  Perhaps due to discovered conflicts with intellectual property after the campaigns are made public.
+
+![Kickstarter Table](Images/Category Stack.jpg)
+
 * There's commonly a decline in the number of "successful" campaigns that are created in the month of December.  Perhaps due to backers directing more income to Holiday spending.
 
 2.	What are some limitations of this dataset?
